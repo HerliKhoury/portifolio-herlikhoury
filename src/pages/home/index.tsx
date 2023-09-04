@@ -58,8 +58,8 @@ export const Home = (): JSX.Element => {
               projects
             </Text>
             <Text type="body1" color="grey2">
-              Discover here in this environment, created especially for you, all
-              my projects and technologies
+            I'm thrilled to welcome you here today.
+            I have a passion for innovation and project development that has driven me throughout my career. I believe that the fusion of creativity and technology can bring about incredible changes in our world. Today, I want to share with you a glimpse of the exciting projects and technologies I've been involved in.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
